@@ -1,0 +1,19 @@
+{
+    "startingCard": "Start",
+    "cards": [
+        {
+            "name": "Start",
+            "text": "Start text",
+            "choices": [{
+                "action": "Go to end",
+                "nextCard": "End"
+            }]
+        },
+        {
+            "name": "End",
+            "text": "End text",
+            "choices": []
+        }
+    ],
+    "title": "General Story"
+}

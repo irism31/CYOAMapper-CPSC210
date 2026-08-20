@@ -1,0 +1,9 @@
+{
+    "startingCard": null,
+    "cards": [{
+        "name": "Names",
+        "text": "Texts",
+        "choices": []
+    }],
+    "title": "Title"
+}

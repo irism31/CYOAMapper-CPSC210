@@ -1,0 +1,19 @@
+{
+    "startingCard": "Start",
+    "cards": [
+        {
+            "name": "Card2",
+            "text": "Text2",
+            "choices": []
+        },
+        {
+            "name": "Start",
+            "text": "Hi",
+            "choices": [{
+                "action": "Run to card 2!",
+                "nextCard": "Card2"
+            }]
+        }
+    ],
+    "title": "VerySpecialBook"
+}

@@ -1,0 +1,24 @@
+{
+    "startingCard": "Start",
+    "cards": [
+        {
+            "name": "Start",
+            "text": "This is changed text",
+            "choices": [{
+                "action": "Go to middle",
+                "nextCard": "Middle"
+            }]
+        },
+        {
+            "name": "End",
+            "text": "End text",
+            "choices": []
+        },
+        {
+            "name": "Middle",
+            "text": "Text",
+            "choices": []
+        }
+    ],
+    "title": "testWriterGeneralStoryMadeChanges"
+}

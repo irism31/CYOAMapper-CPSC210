@@ -1,0 +1,30 @@
+{
+    "title": "General Story",
+    "startingCard": "Start",
+    "cards": [
+        {
+            "name": "Start",
+            "text": "This is the start.",
+            "choices": [
+                {
+                    "action": "Choice1",
+                    "nextCard": "Path1"
+                },
+                {
+                    "action": "Choice2",
+                    "nextCard": "Path2"
+                }
+            ]
+        },
+        {
+            "name": "Path1",
+            "text": "This is path 1.",
+            "choices": []
+        },
+        {
+            "name": "Path2",
+            "text": "This is path 2.",
+            "choices": []
+        }
+    ]
+}
